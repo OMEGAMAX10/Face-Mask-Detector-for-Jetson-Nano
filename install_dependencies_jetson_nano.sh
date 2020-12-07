@@ -1,3 +1,4 @@
+cd ~
 apt-get update
 apt-get upgrade
 apt-get -y install build-essential cmake unzip pkg-config
