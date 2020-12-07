@@ -5,8 +5,8 @@ Because of the COVID-19 pandemic of 2020, more and more people are concerned wit
 
 1. Move the script **install_dependencies_jetson_nano.sh** in the home directory then execute these commands:
 ```console
-foo@bar:~$ sudo chmod +x install_dependencies_jetson_nano.sh
-foo@bar:~$ sudo ./install_dependencies_jetson_nano.sh
+foo@bar:~$ sudo chmod +x install_dependencies_jetson_nano.sh    # make the script executable
+foo@bar:~$ sudo ./install_dependencies_jetson_nano.sh           # run the script to install dependencies for this application
 ```
 
 2. Execute the Python Script from command line like this:
