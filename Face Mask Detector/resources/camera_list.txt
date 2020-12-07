@@ -1,0 +1,2 @@
+Camera_2 1
+Camera_1 0
