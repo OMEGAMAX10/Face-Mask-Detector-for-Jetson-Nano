@@ -305,6 +305,7 @@ class StartMenu(QMainWindow):
 
     def open_main_menu(self):
         self.hide()
+        mainMenu.current_camera = None
         mainMenu.ui.mask_count_label.setText("")
         mainMenu.ui.no_mask_count_label.setText("")
         mainMenu.ui.status_label.setText("")
