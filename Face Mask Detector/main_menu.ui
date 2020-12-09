@@ -170,9 +170,9 @@ font: 63 22pt &quot;URW Gothic L&quot;;</string>
     </property>
     <property name="geometry">
      <rect>
-      <x>40</x>
+      <x>20</x>
       <y>930</y>
-      <width>301</width>
+      <width>381</width>
       <height>61</height>
      </rect>
     </property>

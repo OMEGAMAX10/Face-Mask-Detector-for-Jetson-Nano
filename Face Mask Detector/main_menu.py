@@ -100,7 +100,7 @@ class Ui_MainMenu(object):
         self.camera_list_label.setObjectName("camera_list_label")
         self.photo_taken_notification = QtWidgets.QLabel(self.centralwidget)
         self.photo_taken_notification.setEnabled(True)
-        self.photo_taken_notification.setGeometry(QtCore.QRect(40, 930, 301, 61))
+        self.photo_taken_notification.setGeometry(QtCore.QRect(20, 930, 381, 61))
         font = QtGui.QFont()
         font.setFamily("URW Gothic L")
         font.setPointSize(24)
