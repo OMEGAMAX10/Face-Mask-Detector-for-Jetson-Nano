@@ -11,11 +11,11 @@ foo@bar:~$ sudo ./install_dependencies_jetson_nano.sh           # run the script
 
 2. Execute the Python Script from command line like this:
 ```console
-foo@bar:~$ python .\face_mask_detection.py
+foo@bar:~$ python ./face_mask_detection.py
 ```
 or
 ```console
-foo@bar:~$ python3 .\face_mask_detection.py
+foo@bar:~$ python3 ./face_mask_detection.py
 ```
 
 3. From the start menu, you can add or delete a camera from the camera list. When creating a camera, a name and an ID must be provided. The ID must be from one of these categories:
